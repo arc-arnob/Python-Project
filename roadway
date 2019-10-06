@@ -1,0 +1,34 @@
+Library system:
+	- add a new book
+	-edit a book
+	-delete a book
+	-categories
+	-search
+	-user, login , signup
+	-setting[cat, author, publisher]
+	-day to day ops
+	-generate repots and save excel file
+
+	book:
+		-code
+		-title
+		-desc
+		-category
+		-price
+		-author
+		-publisher
+
+	user:
+		-username
+		-psssword
+		-email address
+	day to day op.
+		_book name
+		-rent/retrive
+		-days
+	category:
+		-name
+	publuisher:
+		_name
+	author:
+		-author name
